@@ -36,5 +36,10 @@ pip install -r requirements.txt
 
 ### Run program
 ```
-    uvicorn main:app --reaload
+    uvicorn app.main:app --reaload
+```
+
+### Run Tests
+```
+    pytest -s
 ```
