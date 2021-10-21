@@ -14,7 +14,7 @@ brew install python
 
 `Install Virtualenv`
 ```
-pip3 install virtaulenv
+pip3 install virtualenv
 ```
 
 ### Setup
