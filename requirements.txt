@@ -7,3 +7,4 @@ requests
 aiofiles
 python-multipart
 pillow
+pytesseract
