@@ -39,6 +39,11 @@ pip install -r requirements.txt
     uvicorn app.main:app --reaload
 ```
 
+### EndPoint Documentation
+<a href="http://127.0.0.1:8000/redoc">
+    http://127.0.0.1:8000/redoc
+</a>
+
 ### Run Tests
 ```
     pytest -s
