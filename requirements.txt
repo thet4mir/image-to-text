@@ -1,4 +1,4 @@
-fastapi[all]
+fastapi
 gunicorn
 uvicorn
 jinja2
